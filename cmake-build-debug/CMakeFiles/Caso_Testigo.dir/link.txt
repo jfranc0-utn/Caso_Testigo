@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Caso_Testigo.dir/main.cpp.o -o Caso_Testigo 
